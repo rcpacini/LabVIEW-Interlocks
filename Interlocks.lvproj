@@ -42,7 +42,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{B86DABA0-EC86-4D6E-986C-F0CC8D1EEE25}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Interlocks Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Interlocks Example/Interlocks Example.exe</Property>
@@ -76,20 +76,20 @@
 				<Property Name="TgtF_targetfileName" Type="Str">Interlocks Example.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
-			<Item Name="LabVIEW_Interlocks" Type="Packed Library">
+			<Item Name="LabVIEW-Interlocks" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{5C47306A-D275-46F5-BC09-7508B0307702}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW_Interlocks</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW-Interlocks</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../builds</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7C1322EB-23FB-41FD-809C-4772A53CA719}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">LabVIEW_Interlocks.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW_Interlocks.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Interlocks.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Interlocks.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -98,7 +98,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4A6DF2B6-E995-46D1-8135-E0975FF11235}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F7782B2C-1658-43DB-9130-C471AAD5C51B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Interlocks.lvlib</Property>
@@ -111,12 +111,12 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Ryan Pacini</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW_Interlocks</Property>
-				<Property Name="TgtF_internalName" Type="Str">LabVIEW_Interlocks</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW-Interlocks</Property>
+				<Property Name="TgtF_internalName" Type="Str">LabVIEW-Interlocks</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 Ryan Pacini</Property>
-				<Property Name="TgtF_productName" Type="Str">LabVIEW_Interlocks</Property>
+				<Property Name="TgtF_productName" Type="Str">LabVIEW-Interlocks</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{C752815E-7BE9-469C-B015-CDBB6AFCE3EA}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW_Interlocks.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW-Interlocks.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
