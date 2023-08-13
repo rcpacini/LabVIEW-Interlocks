@@ -42,7 +42,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{B86DABA0-EC86-4D6E-986C-F0CC8D1EEE25}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Interlocks Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Interlocks Example/Interlocks Example.exe</Property>
@@ -86,7 +86,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7C1322EB-23FB-41FD-809C-4772A53CA719}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Interlocks.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Interlocks.lvlibp</Property>
